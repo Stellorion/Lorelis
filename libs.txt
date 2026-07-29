@@ -1,0 +1,33 @@
+=== UI ===
+ui.shadcn
+lucide-react
+
+=== Z ===
+zod
+zustand
+
+=== Credentials ===
+jsonwebtoken
+jwt-decode
+
+=== DB ===
+prisma
+neon (postgreSQL)
+
+=== API Search ===
+Tavily AI Search API (Unclear seems to be used in py)
+Google API
+
+=== Useful Links ===
+Desgin - https://v0.app/chat/evidence-based-ai-assistant-fSBGPzdxsI6
+
+=== Unclear Decisions ===
+- src folder
+- middleware stracture
+- spliting the frontend and the backend
+- add folders for containers for each page/thing
+- login/signup
+- how to limit tokens
+- using LangChain
+- working off MCP instead of API
+- Scores to trusted website on how trusted they are
