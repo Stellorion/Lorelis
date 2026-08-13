@@ -1,5 +1,5 @@
 === UI ===
-ui.shadcn
+ui.shadcn   
 lucide-react
 
 === Z ===
@@ -15,7 +15,7 @@ prisma
 neon (postgreSQL)
 
 === API Search ===
-Tavily AI Search API (Unclear seems to be used in py)
+Tavily AI Search API (Unclear, seems to be used in py)
 Google API
 
 === Useful Links ===

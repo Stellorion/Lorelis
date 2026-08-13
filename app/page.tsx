@@ -1,3 +1,5 @@
+import ChatInterface from "@/components/chat-interface";
+
 export default function Home() {
   return (
     <div
@@ -7,8 +9,8 @@ export default function Home() {
           "url('https://i.pinimg.com/736x/d8/bb/2c/d8bb2c92d768a33582a5cd62b6cb4010.jpg')",
       }}
     >
-      <div className="text-5xl text-black">
-        Work in Progress
+      <div>
+        <ChatInterface></ChatInterface>
       </div>
     </div>
   );
